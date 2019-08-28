@@ -1,0 +1,17 @@
+{
+    "name": "keijiro.MidiJack.Editor",
+    "references": [
+        "GUID:424f532740b6441949d4c7d0ab4c888e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "com.keijiro.midijack",
+  "version": "1.0.0",
+  "displayName": "Midi Jack",
+  "description": "MIDI input plugin for Unity",
+  "unity": "2018.1",
+  "keywords": [
+    "midi"
+  ],
+  "author": {
+    "name": "keijiro",
+    "url": "https://github.com/keijiro"
+  } 
+}
